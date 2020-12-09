@@ -17,7 +17,7 @@ Below is a list of repositories that we actively contribute to (this is also a c
 - [Zygote.jl](https://github.com/FluxML/Zygote.jl): The source-to-source AD tool that backs Flux.jl.
 - [FastAI.jl](https://github.com/FluxML/FastAI.jl): A Julia port of Python's fast-ai stack (built upon the packages listed below).
 - [FluxTraining.jl](https://github.com/lorenzoh/FluxTraining.jl): Easily customized training loops, a large library of useful metrics, and many useful utilities (such as logging)
-- [DataLoaders.jl](https://github.com/lorenzoh/DataLoaders.jl): Multi-threaded data loading built on MLDataPattern.jl (similar to PyTorch's `DataLoader`).
+- [DataLoaders.jl](https://github.com/lorenzoh/DataLoaders.jl): Multi-threaded data loading built on MLDataPattern.jl (similar to PyTorch's [`DataLoader`](https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader)).
 - [MLDataPattern.jl](https://github.com/JuliaML/MLDataPattern.jl): Utility package for subsetting, partitioning, iterating, and resampling of datasets.
 - [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl): A collection of common machine learning datasets.
 - [DataAugmentation.jl](https://github.com/lorenzoh/DataAugmentation.jl): Utilities for augmenting image-like data
