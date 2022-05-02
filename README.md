@@ -23,3 +23,4 @@ Below is a list of repositories that we actively contribute to (this is also a c
 - [DataAugmentation.jl](https://github.com/lorenzoh/DataAugmentation.jl): Utilities for augmenting image-like data
 - [Metalhead.jl](https://github.com/FluxML/Metalhead.jl): Computer vision models for Flux 
 - [Transformers.jl](https://github.com/chengchingwen/Transformers.jl): NLP transformer-based models for Flux
+- [GeometricFlux.jl](https://github.com/FluxML/GeometricFlux.jl): JuliaGraphs-compatible geometric deep learning library for Flux.
